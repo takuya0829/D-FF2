@@ -27,7 +27,7 @@ pinout:
 
   # Outputs
   uo[0]: "out"
-  uo[1]: "outbar"
+  uo[1]: "outba"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
